@@ -25,8 +25,8 @@ A React + TypeScript dApp for creating **Solana Token-2022** mints with on-chain
 
 # 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git https://github.com/sum1t-here/Solana-token-launchpad.git
+cd Solana-token-launchpad
 ```
 
 
